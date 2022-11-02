@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prySp3Repuestos.FerMoya", "prySp3Repuestos.FerMoya\prySp3Repuestos.FerMoya.csproj", "{A581A39E-B3F4-41A6-82EE-B55BA1E308A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A581A39E-B3F4-41A6-82EE-B55BA1E308A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A581A39E-B3F4-41A6-82EE-B55BA1E308A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A581A39E-B3F4-41A6-82EE-B55BA1E308A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A581A39E-B3F4-41A6-82EE-B55BA1E308A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA195A5C-8C1E-4C52-9EF9-07E750E037B9}
+	EndGlobalSection
+EndGlobal
